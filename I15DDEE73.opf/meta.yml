@@ -1,0 +1,38 @@
+id: I15DDEE73
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T02:04:43.820990'
+last_modified: '2022-06-19T02:04:43.821002'
+parser: null
+source_metadata:
+  title: Hagiography of Gong dkar rDo rje gdan pa Kun dga rnam rgyal (1432–1496),
+    no. II
+  author: gzhon nu rnam rgyal/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-10-13); converted from external file, revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:blo gsal don grub/ (Dehradun) (ld)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/64
+  bases:
+    fb8e:
+      title: Hagiography of Gong dkar rDo rje gdan pa Kun dga rnam rgyal (1432–1496),
+        no. II
+      order: 1
+      base_file: fb8e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
